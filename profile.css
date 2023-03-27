@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(design.avif);
+    background-size: cover;
+}
+
+h1{
+    position: relative;
+    color: rgb(175, 43, 43);
+    padding: 50px;
+    font-size: 50px;
+}
+
+.image{
+    width: 40%;
+    position: relative;
+    bottom: 22rem;
+    left: 56%;
+    border-radius: 40px;
+}
+
+ul{
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    padding: 1rem;
+    justify-content: center;
+    list-style: none;
+}
+
+li{
+    margin-right: 5rem;
+}
+
+a{
+    font-weight: bolder;
+    font-size: 20px;
+    color: brown;
+    text-decoration: none;  
+}
+
+.fd{
+    padding: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #fc0606;
+    padding-left: 35px;
+}
